@@ -82,7 +82,7 @@ function App() {
             Full Stack Developer
           </p>
           <p className="masthead-subheading font-weight-light mb-0">
-            Java || Java Script || Spring || React Js || Angular
+            Java || Java Script || Spring || Hibernate || React Js || Angular
           </p>
         </div>
       </header>
